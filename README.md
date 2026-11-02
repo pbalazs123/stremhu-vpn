@@ -27,8 +27,6 @@
   <a href="#-troubleshooting">Troubleshooting</a>
 </p>
 
-<p align="center"><a href="README.hu.md">Magyar leírás</a></p>
-
 ---
 
 ## ✨ Features
