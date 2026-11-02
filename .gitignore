@@ -1,0 +1,11 @@
+# Local environment and secrets
+.env
+.env.*
+stremhu-vpn.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
